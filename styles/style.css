@@ -34,3 +34,32 @@ body{
     font-weight: 700;
 }
 /* main section */
+/* Featured Flowers section */
+.featured-title{
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+}
+.featured-des{
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+}
+.featured-item-container{
+    display: flex;
+    gap: 24px;
+    width: 1920px;
+}
+
+.featured-flower{
+    background-image: url("../assets/featured\ 1.png");
+    
+}
+.featured-flower img{
+    
+    height: 428px;
+    border-radius: 300px 300px 0px 0px;
+    background-color: rgba(167, 33, 98, 0.15);
+}
