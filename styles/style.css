@@ -1,3 +1,4 @@
+/* common shared style */
 body{
     margin: 0;
     font-family: 'Lato', sans-serif;
@@ -135,8 +136,15 @@ body{
     margin: 0;
     padding: 200px 0 20px 400px;
 }
-.arrival-des{
-    font-size: 40px;
+.Mothers-day{
+    color: rgb(5, 148, 5);
+    font-size: 45px;
+    margin: 0;
+    padding: 0px 0 10px 400px;
+}
+.arrival-description{
+    color: rgba(18, 122, 4, 0.726);
+    font-size: 20px;
     margin: 0;
     padding: 0 0 20px 400px;
 }
