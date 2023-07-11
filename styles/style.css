@@ -124,6 +124,25 @@ body{
     gap: 24px;
     margin-bottom: 128px;
 }
+/* new arrivals section */
+.arrivals-container{
+    background-image: url("../assets/banner-2.png");
+    margin-bottom: 128px;
+}
+.arrival-title{
+    color: red;
+    font-size: 30px;
+    margin: 0;
+    padding: 200px 0 20px 400px;
+}
+.arrival-des{
+    font-size: 40px;
+    margin: 0;
+    padding: 0 0 20px 400px;
+}
+#shop-btn{
+    margin: 0 0 250px 400px;
+}
 /* Get The Latest Deals */
 .latest-deal-container{
    background-image: url(../assets/Rectangle\ 9.png);
