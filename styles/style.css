@@ -163,3 +163,31 @@ body{
     font-weight: 400;
     margin-right: 16px;
 }
+/* footer section */
+footer{
+    background-color: black;
+}
+.footer-title{
+    font-size: 48px;
+    font-weight: 800;
+    color: white;
+    text-align: center;
+    margin: 0;
+    padding: 128px 0 24px;
+}
+.footer-description{
+    color: rgba(255, 255, 255, 0.90);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    width: 625px;
+    margin: 0 auto;
+}
+.rights-description{
+    color: rgba(255, 255, 255, 0.40);
+    text-align: center;
+    font-size: 16px;
+    font-weight: 400;
+    margin: 0;
+    padding: 32px 0 128px;
+}
